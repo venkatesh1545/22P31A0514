@@ -27,5 +27,4 @@ A clean and interactive URL shortening web app built using **React + Vite** with
 
 ---
 
-## 📂 Project Structure
 
