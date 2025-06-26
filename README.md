@@ -1,12 +1,31 @@
-# React + Vite
+# 🔗 URL Shortener App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and interactive URL shortening web app built using **React + Vite** with **Material UI**, supporting features like:
 
-Currently, two official plugins are available:
+- 🔗 Shortening multiple URLs
+- ⏱️ Custom link expiration
+- ✍️ Custom shortcodes
+- 🗑️ Add/remove input rows
+- 📋 Tabular view of shortened links
+- ⚡ Responsive, animated UI with MUI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Preview](https://user-images.githubusercontent.com/your-demo-gif-url.gif)
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Material UI](https://mui.com/)
+- Axios (for API calls)
+- Optional: Node.js/Express for backend
+
+---
+
+## 📂 Project Structure
+
