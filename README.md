@@ -28,3 +28,18 @@ A clean and interactive URL shortening web app built using **React + Vite** with
 ---
 
 
+---
+
+## ⚙️ Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/venkatesh1545/22P31A0514.git
+cd <your-folder-name>
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
+npm run dev
+
